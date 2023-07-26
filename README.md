@@ -1,1 +1,1 @@
-do hard things
+Second week of ALX
